@@ -1,0 +1,24 @@
+body {
+}
+.header, .footer {
+background-color: #3f3d3a;
+color: #fff;
+}
+table {
+width: 80%;
+}
+th, td {
+border: 1px solid #ccc;
+}
+.kolom1 {
+background-color: #cf2121;
+}
+.kolom2 {
+background-color: #27ae60;
+}
+.kolom3 {
+background-color: #d4b03a;
+}
+.kolom4 {
+background-color: #297f99;
+}
